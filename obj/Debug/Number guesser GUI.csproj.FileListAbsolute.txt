@@ -1,0 +1,15 @@
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\bin\Debug\Number guesser GUI.exe.config
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\bin\Debug\Number guesser GUI.exe
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\bin\Debug\Number guesser GUI.pdb
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Debug\Number guesser GUI_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Debug\Number guesser GUI.g.resources
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Debug\Number_guesser_GUI.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Debug\Number guesser GUI.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Debug\Number guesser GUI.exe
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Debug\Number guesser GUI.pdb
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Debug\Number guesser GUI.csprojResolveAssemblyReference.cache
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Debug\Window_settings.baml
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Debug\Window_settings.g.cs

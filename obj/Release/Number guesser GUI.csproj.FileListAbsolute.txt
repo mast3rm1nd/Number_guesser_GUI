@@ -1,0 +1,14 @@
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\bin\Release\Number guesser GUI.exe.config
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\bin\Release\Number guesser GUI.exe
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\bin\Release\Number guesser GUI.pdb
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Release\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Release\Window_settings.baml
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Release\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Release\Window_settings.g.cs
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Release\App.g.cs
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Release\Number guesser GUI_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Release\Number guesser GUI.g.resources
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Release\Number_guesser_GUI.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Release\Number guesser GUI.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Release\Number guesser GUI.exe
+E:\Dropbox\!Coding\All_in_one\Number guesser GUI\obj\Release\Number guesser GUI.pdb

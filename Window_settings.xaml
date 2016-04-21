@@ -1,0 +1,11 @@
+﻿<Window x:Name="Windows_settings" x:Class="Number_guesser.Window_settings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Настройки" Height="130" Width="233" Loaded="Windows_settings_Loaded" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Closed="Windows_settings_Closed">
+    <Grid>
+        <Button x:Name="btnSave" Content="Сохранить" HorizontalAlignment="Left" Margin="75,60,0,0" VerticalAlignment="Top" Width="70" Click="btnSave_Click"/>
+        <TextBox x:Name="TextBox_MaxNumber" HorizontalAlignment="Left" Height="23" Margin="150,17,0,0" TextWrapping="Wrap" Width="60" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" KeyDown="TextBox_KeyDown" MaxLines="1" MaxLength="7"/>
+        <Label x:Name="Label_max_number" Content="Максимальное число:" HorizontalAlignment="Left" Margin="12,14,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

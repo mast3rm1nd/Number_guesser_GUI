@@ -1,0 +1,17 @@
+C:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\bin\Release\Number_guesser.exe.config
+C:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\obj\Release\Number_guesser.exe
+C:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\obj\Release\Number_guesser.pdb
+C:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\bin\Release\Number_guesser.exe
+C:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\bin\Release\Number_guesser.pdb
+C:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\obj\Release\MainWindow.baml
+C:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\obj\Release\Window_settings.baml
+C:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\obj\Release\MainWindow.g.cs
+C:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\obj\Release\Window_settings.g.cs
+C:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\obj\Release\App.g.cs
+C:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\obj\Release\Number_guesser_MarkupCompile.cache
+C:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\obj\Release\Number_guesser.g.resources
+C:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\obj\Release\Number_guesser.Properties.Resources.resources
+C:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\obj\Release\Number_guesser.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\bin\Release\Number_guesser.exe.config
+E:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\obj\Release\Number_guesser.exe
+E:\Dropbox\!Coding\All_in_one\Number_guesser_GUI\obj\Release\Number_guesser.pdb
